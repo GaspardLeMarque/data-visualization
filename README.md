@@ -1,3 +1,3 @@
-Data visualization project explores D3 and C3 libraries.
+Data visualization project.
 Aim:
-Comparing features of aforementioned visualization libraries.
+Comparing features of different visualization libraries with various datasets.
